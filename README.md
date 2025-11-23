@@ -1,7 +1,8 @@
 <div align="center">
 
 # Hi, I'm Yash Kumar 👋  
-### Backend Developer | Full Stack Enthusiast | CSE – Data Science Student
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=600&lines=Backend+Developer;Full+Stack+Developer;CSE++-+Data+Science+Student;Java+%7C+Spring+Boot+%7C+React;Always+learning+and+building+projects)](https://git.io/typing-svg)
 
 </div>
 
